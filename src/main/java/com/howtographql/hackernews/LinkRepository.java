@@ -16,7 +16,7 @@ public class LinkRepository {
         links.add(new Link("http://graphql.org/learn/", "The official docks"));
     }
 
-    public List<Link> getLinks() { return links; }
+    public List<Link> getAllLinks() { return links; }
 
     public void saveLink(Link link) { links.add(link); }
 }
