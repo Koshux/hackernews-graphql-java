@@ -35,9 +35,9 @@
         </dependency>
 
         <dependency>
-            <groupId>io.github.graphql-java</groupId>
-            <artifactId>graphql-java-annotations</artifactId>
-            <version>5.3</version>
+            <groupId>io.leangen.graphql</groupId>
+            <artifactId>spqr</artifactId>
+            <version>0.9.7</version>
         </dependency>
 
         <dependency>
